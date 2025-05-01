@@ -29,10 +29,10 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,python,java,mysql,git,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,python,java,mysql,git,vscode&theme=dark" />
 </p>
 
 ---
@@ -73,6 +73,4 @@
 
 📬 [aggarwalkaavya23@gmail.com](mailto:aggarwalkaavya23@gmail.com)
 
----
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=OmegaKavya&label=Profile%20views&color=0e75b6&style=flat" alt="OmegaKavya" /></p>
+<p align="center"><i>“Code with purpose, build with passion.”</i></p>
