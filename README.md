@@ -44,7 +44,7 @@
 
 - 🔍 Powered by **OMDb & TMDb APIs**
 - 🧩 Tech Stack: `React.js`, `Node.js`, `Express.js`, `MongoDB`, `Firebase`
-- 🌙 Dark mode | 🔐 Firebase Auth | 🌐 Deployed via Firebase & Render
+- 🔐 Firebase Auth | 🌐 Deployed via Firebase & Render
 
 ---
 
