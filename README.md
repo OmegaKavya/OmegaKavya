@@ -11,10 +11,10 @@
 
 - 🎓 **Computer Science Undergrad** @ *Gitam University* (CGPA: 9.36)
 - 🛠️ Developer of **[CineInfinity 🎬](https://movie-e78c5.web.app)** – a full-stack movie search & review platform
-- 🔍 Exploring real-world challenges through **AI**, **ML**, and **open-source development**
-- 📊 Currently diving deep into **Data Science** and scaling my **MERN stack** skills
-- 🤝 Always eager to **collaborate** on research, hackathons, and impactful projects
-- 🎯 Skilled in problem-solving with **Python**, **React**, and **Node**
+- 🤖 Building AI & ML projects like **Language Detection** and **User Segmentation** with Python and Streamlit
+- 📊 Passionate about Data Science, Data Visualization, and MERN stack development
+- 🤝 Eager to collaborate on hackathons, research, and open-source projects
+- 🎯 Skilled in **Python, React.js, Node.js**, and problem-solving with real-world datasets
 - 🎵 Beyond the screen: I’m a **cricket enthusiast**, and a **swimming gold medalist**
 
 ---
@@ -35,12 +35,13 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,python,java,mysql,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,python,scikitlearn&theme=dark" />
 </p>
+
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 
 #### 🎬 [CineInfinity](https://movie-e78c5.web.app)
 > A full-stack web application where users can search, explore, and review movies.
@@ -49,6 +50,15 @@
 - 🧩 Tech Stack: `React.js`, `Node.js`, `Express.js`, `MongoDB`, `Firebase`
 - 🔐 Firebase Auth | 🌐 Deployed via Firebase & Render
 
+#### 🌐 [Language Detection](https://language-detection-project.streamlit.app/)
+> AI-Powered Language Detection App using a trained ML model in Python and Streamlit.
+
+- 🧩 Tech Stack: Python, Streamlit, scikit-learn, Pandas
+
+#### 📊 [User Segmentation](https://user-segmentation.streamlit.app/)
+> AI-Powered Dashboard and Prediction Page to visualize behavioral & demographic user segments and also provide recommendations.
+
+- 🧩 Tech Stack: Python, Streamlit, Plotly, Pandas
 ---
 
 ### 📊 GitHub Insights
@@ -74,6 +84,6 @@
 
 💬 *Always happy to connect with developers, data enthusiasts, and open-source contributors.*
 
-📬 [aggarwalkaavya23@gmail.com](mailto:aggarwalkaavya23@gmail.com)
+📬 [aggarwalkaavya23@gmail.com](mailto:aggarwalkaavya23@gmail.com) | 🌐 [Portfolio](https://aggarwalkavya.web.app/)
 
 <p align="center"><i>“Code with purpose, build with passion.”</i></p>
