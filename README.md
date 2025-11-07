@@ -84,6 +84,6 @@
 
 💬 *Always happy to connect with developers, data enthusiasts, and open-source contributors.*
 
-📬 [aggarwalkaavya23@gmail.com](mailto:aggarwalkaavya23@gmail.com) | 🌐 [Portfolio](https://aggarwalkavya.web.app/)
+📬 [aggarwalkaavya23@gmail.com](mailto:aggarwalkaavya23@gmail.com) | 🌐 [Portfolio](https://aggarwalkavya.me)
 
 <p align="center"><i>“Code with purpose, build with passion.”</i></p>
