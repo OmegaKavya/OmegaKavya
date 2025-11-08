@@ -1,89 +1,216 @@
-<h1 align="center">Hey 👋, I'm Kavya Aggarwal</h1>
-<!-- <h3 align="center">💻 MERN Stack Developer | 🎯 AI Explorer | 🛠️ Creative Coder | 🧠 Lifelong Learner</h3> -->
+# 🚀 Kavya Aggarwal - Full-Stack Developer & AI Engineer
+
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kavya%20Aggarwal&fontSize=50&fontAlignY=35&animation=fadeIn)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+React%2C+Node%2C+MongoDB;ML+%26+Data+Science+Explorer;Tech+Enthusiast+%7C+Cricket+Lover;Lifelong+Learner+%7C+Growth+Mindset" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+React%2C+Node%2C+MongoDB;AI+%26+ML+Engineer+%7C+Python%2C+TensorFlow;Deep+Learning+Specialist+%7C+CNN%2C+Neural+Networks;Open+Source+Contributor+%7C+Always+Learning" alt="Typing SVG" />
 </p>
 
----
-
-### ✨ About Me
-
-- 🎓 **Computer Science Undergrad** @ *Gitam University* (CGPA: 9.36)
-- 🛠️ Developer of **[CineInfinity 🎬](https://movie-e78c5.web.app)** – a full-stack movie search & review platform
-- 🤖 Building AI & ML projects like **Language Detection** and **User Segmentation** with Python and Streamlit
-- 📊 Passionate about Data Science, Data Visualization, and MERN stack development
-- 🤝 Eager to collaborate on hackathons, research, and open-source projects
-- 🎯 Skilled in **Python, React.js, Node.js**, and problem-solving with real-world datasets
-- 🎵 Beyond the screen: I’m a **cricket enthusiast**, and a **swimming gold medalist**
-
----
-
-### 🌐 Connect With Me
-
 <p align="center">
-  <a href="mailto:aggarwalkaavya23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/aggarwalkavya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://leetcode.com/u/OmegaKavya/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="mailto:aggarwalkaavya23@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aggarwalkavya/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/OmegaKavya/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
   <a href="https://www.codechef.com/users/OmegaKavya">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+  <a href="https://aggarwalkavya.me">
+    <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+I'm a passionate Computer Science undergraduate at Gitam University with a strong focus on Full-Stack Development and Artificial Intelligence. With a CGPA of 9.36, I thrive on building innovative solutions that bridge technology and real-world problems.
+
+**What drives me:**
+- 🚀 Building intelligent applications that make an impact
+- 🤖 Exploring the frontiers of Deep Learning and AI
+- 💡 Solving complex problems with elegant code
+- 🌱 Continuous learning and growth mindset
+
+**Beyond coding:** Competitive programmer, sports enthusiast (cricket vice-captain & swimming gold medalist), and dedicated learner.
+
+---
+
+## 🛠️ Tech Stack & Superpowers
+
+<div align="center">
+
+### 💻 **Full-Stack Arsenal**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🤖 **AI & Machine Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🎨 **Frontend Mastery**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚡ **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎵 **MelodAI - Deep Learning Music Classification**
+> **Bollywood Music Mood Classifier using CNN & Mel-Spectrograms**
+
+- **Tech:** `Python` `TensorFlow` `CNN` `Librosa` `Streamlit`
+- **Features:** Real-time audio classification, YouTube integration, Beautiful UI
+- **Live Demo:** [MelodAI App](https://melod-ai.streamlit.app/)
+- **Code:** [GitHub Repository](https://github.com/OmegaKavya/MelodAI)
+
+---
+
+### 🎬 **CineInfinity - Full-Stack Movie Platform**
+> **Movie Search & Review Platform with Social Features**
+
+- **Tech:** `React` `Node.js` `MongoDB` `Firebase` `Express`
+- **Features:** User authentication, Movie reviews, Ratings, Search
+- **Live Demo:** [CineInfinity](https://movie-e78c5.web.app)
+- **Code:** [GitHub Repository](https://github.com/OmegaKavya/CineInfinity)
+
+---
+
+### 🌐 **Language Detection AI**
+> **Real-time Language Detection using Machine Learning**
+
+- **Tech:** `Python` `scikit-learn` `Streamlit` `Pandas`
+- **Features:** Multi-language detection, Real-time processing
+- **Live Demo:** [Language Detection](https://language-detection-project.streamlit.app/)
+- **Code:** [GitHub Repository](https://github.com/OmegaKavya/Language-Detection)
+
+---
+
+### 📊 **User Segmentation Dashboard**
+> **AI-Powered Customer Analytics & Visualization**
+
+- **Tech:** `Python` `Plotly` `Streamlit` `Machine Learning`
+- **Features:** Interactive dashboards, Customer insights, Predictive analytics
+- **Live Demo:** [User Segmentation](https://user-segmentation.streamlit.app/)
+- **Code:** [GitHub Repository](https://github.com/OmegaKavya/user-segmentation-app)
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/OmegaKavya">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmegaKavya&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmegaKavya&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </a>
-</p>
+
+<a href="https://github.com/OmegaKavya">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OmegaKavya&theme=radical&hide_border=true"/>
+</a>
+
+</div>
 
 ---
 
-### 💻 Tech Stack
+## 🏆 Achievements & Leadership
+
+<div align="center">
+
+### 🥇 **Hackathons & Competitions**
+ 🥉 **Smart India Hackathon 2024** - 3rd Place | AI-Powered Study Companion
+ 
+ 🥈 **SOF International Mathematics Olympiad** - Silver Medalist
+ 
+ 🥈 **Eduranet Intellectual Olympiad** - Silver Medalist
+
+### 🏅 **Sports & Leadership**
+ 🏊 **Gold Medalist** - Inter-school Swimming Championship
+ 
+ 🏏 **Vice-Captain** - Cricket Team (Silver Trophy)
+ 
+ 💼 **Treasurer** - Gitam Coding Club (COGAAN) 2023–24
+
+</div>
+
+---
+
+## 🌟 Beyond Code
+
+| Technical Excellence | Sports & Leadership |
+|---------------------|---------------------|
+| 🎯 Competitive Programming | 🏆 Swimming Gold Medalist |
+| 🤝 Open Source Contributor | 🏏 Cricket Vice-Captain |
+| 🚀 Hackathon Participant | 💼 Coding Club Treasurer |
+| 📚 Continuous Learner | 👥 Team Leadership |
+
+---
+
+## 📫 Let's Connect & Collaborate
+
+<div align="center">
+
+### 🤝 **I'm always excited to:**
+
+ Collaborate on **innovative projects**
+ 
+ Participate in **hackathons**
+ 
+ Discuss **AI/ML research**
+
+### 💼 **Open for:**
+ Internship opportunities
+ 
+ Research collaborations  
+ 
+ Open source contributions
+ 
+ Tech community events
+
+</div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,python,scikitlearn&theme=dark" />
-</p>
-
-
----
-
-### 🚀 Featured Projects
-
-#### 🎬 [CineInfinity](https://movie-e78c5.web.app)
-> A full-stack web application where users can search, explore, and review movies.
-
-- 🔍 Powered by **OMDb & TMDb APIs**
-- 🧩 Tech Stack: `React.js`, `Node.js`, `Express.js`, `MongoDB`, `Firebase`
-- 🔐 Firebase Auth | 🌐 Deployed via Firebase & Render
-
-#### 🌐 [Language Detection](https://language-detection-project.streamlit.app/)
-> AI-Powered Language Detection App using a trained ML model in Python and Streamlit.
-
-- 🧩 Tech Stack: Python, Streamlit, scikit-learn, Pandas
-
-#### 📊 [User Segmentation](https://user-segmentation.streamlit.app/)
-> AI-Powered Dashboard and Prediction Page to visualize behavioral & demographic user segments and also provide recommendations.
-
-- 🧩 Tech Stack: Python, Streamlit, Plotly, Pandas
----
-
-### 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmegaKavya&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmegaKavya&layout=compact&theme=radical" height="170"/>
+  <a href="mailto:aggarwalkaavya23@gmail.com">
+    <img src="https://img.shields.io/badge/📧-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aggarwalkavya/">
+    <img src="https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://aggarwalkavya.me">
+    <img src="https://img.shields.io/badge/🌐-Portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
 
-### 🏅 Highlights & Achievements
+<div align="center">
 
-- 🥉 **Smart India Hackathon 2024** – 3rd Place | AI-Powered Study Companion
-- 🧠 **Olympiad Champion** – SOF IMO (Silver), Eduranet (Silver)
-- 🏊 **Gold Medalist** – Inter-school Swimming Championship
-- 🏏 **Vice-Captain** – Cricket Team (Silver Trophy)
-- 💼 **Treasurer** – Gitam Coding Club (COGAAN) (2023–24)
+### ⚡ **Fun Fact**
+> *"I can debug code and score centuries in cricket with equal passion!"* 🏏💻
 
----
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=20&fontAlignY=65)
 
-### 🔗 Let's Collaborate
+**✨ Code with passion, build with purpose, impact with technology ✨**
 
-💬 *Always happy to connect with developers, data enthusiasts, and open-source contributors.*
-
-📬 [aggarwalkaavya23@gmail.com](mailto:aggarwalkaavya23@gmail.com) | 🌐 [Portfolio](https://aggarwalkavya.me)
-
-<p align="center"><i>“Code with purpose, build with passion.”</i></p>
+</div>
