@@ -64,6 +64,28 @@ was produced by exactly that construction, and it is withdrawn.
 
 `Python` `Flask` `ChromaDB` `scikit-learn` · **362 tests** · [Live](https://cogniloop-2svo.onrender.com) · [Code](https://github.com/OmegaKavya/CogniLoop)
 
+### CineInfinity · full-stack film and anime platform
+
+React front end, Express and MongoDB behind it, Firebase authentication, deployed
+across Firebase Hosting and Render. Reviews, ratings, watchlists and search over
+TMDb, OMDb and AniList.
+
+Two things a review site does not usually have. A **watch-order resolver** runs a
+topological sort over a franchise's prequel and sequel edges, so a series is
+ordered by its story rather than its release dates, with recaps and side stories
+classified and ranked separately. And **Your Signal** reads your ratings back
+against the crowd: the distribution across all ten points, where you diverge, and
+Wilson score intervals rather than raw averages, so it says the sample is too
+small instead of drawing confident bars over nothing.
+
+AniList is proxied through the server rather than called from the browser,
+because the API rate-limits per client IP and returns the refusal without CORS
+headers, so from the browser a rate limit arrives as an opaque failure. Proxied,
+it is one budget, cached across every visitor, and a 429 the interface can
+explain.
+
+`React` `Node.js` `Express` `MongoDB` `Firebase Auth` · **209 tests** · [Live](https://cineinfinity.web.app) · [Code](https://github.com/OmegaKavya/CineInfinity)
+
 ### MelodAI · what a network can and cannot hear in a Hindi film song
 
 Predicts energy at **26 of 26** on held-out songs and shows the evidence: the
@@ -99,15 +121,6 @@ one deterministic generator, so they are compared as numbers: 104 values, worst
 relative difference **2e-14**.
 
 `NumPy` `scikit-learn` `React` `Web Workers` · [Live](https://are-these-clusters-real.web.app) · [Code](https://github.com/OmegaKavya/user-segmentation-app)
-
-### CineInfinity · a review platform with a resolver inside it
-
-Reviews and ratings, plus a topological sort over a franchise's prequel and sequel
-edges that orders a series by its story rather than its release dates, and Your
-Signal, which reads your ratings back against the crowd with Wilson intervals
-rather than raw averages.
-
-`React` `Node.js` `MongoDB` `Firebase` · **209 tests** · [Live](https://cineinfinity.web.app) · [Code](https://github.com/OmegaKavya/CineInfinity)
 
 ### BrainBuddy · Smart India Hackathon 2024, third place
 
