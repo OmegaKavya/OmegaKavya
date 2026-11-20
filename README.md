@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0d12,50:0891b2,100:22e5ff&height=230&section=header&text=Kavya%20Aggarwal&fontSize=58&fontColor=f3f6f8&animation=fadeIn&fontAlignY=42&desc=I%20measure%20whether%20the%20number%20means%20anything&descAlignY=62&descSize=18" width="100%" alt="Kavya Aggarwal" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=22E5FF&center=true&vCenter=true&width=760&lines=Agentic+AI+%E2%80%A2+adaptive+learning+%E2%80%A2+audio+ML;Independent+researcher%2C+paper+under+review+at+JEDM;Every+number+here+has+a+measurement+behind+it" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=22E5FF&center=true&vCenter=true&width=760&lines=Agentic+AI+%E2%80%A2+adaptive+learning+%E2%80%A2+audio+ML;Independent+researcher+%E2%80%A2+measurement+validity;Every+number+here+has+a+measurement+behind+it" alt="Typing SVG" />
 </a>
 
 <p>
@@ -55,7 +55,7 @@ hiding seven languages scored at zero, how four named customer segments turned
 out to be a partition of noise, and how a significant result of my own turned
 out to be confounded and was withdrawn.
 
-- Paper under review at **JEDM** on a confound in simulated evaluations of adaptive difficulty
+- Methodology paper written on a confound in simulated evaluations of adaptive difficulty, being prepared for submission
 - **Salesforce Agentforce** and **Databricks Data Engineer Associate** certified
 - Cricket vice-captain, swimming gold medallist, competitive programmer
 
