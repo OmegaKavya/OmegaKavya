@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0d12,50:0891b2,100:22e5ff&height=200&section=header&text=Kavya%20Aggarwal&fontSize=58&fontColor=f3f6f8&animation=fadeIn&fontAlignY=36&desc=I%20measure%20whether%20the%20number%20means%20anything&descAlignY=58&descSize=18" width="100%" alt="Kavya Aggarwal" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0d12,50:0891b2,100:22e5ff&height=230&section=header&text=Kavya%20Aggarwal&fontSize=58&fontColor=f3f6f8&animation=fadeIn&fontAlignY=42&desc=I%20measure%20whether%20the%20number%20means%20anything&descAlignY=62&descSize=18" width="100%" alt="Kavya Aggarwal" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=22E5FF&center=true&vCenter=true&width=620&lines=Agentic+AI+%E2%80%A2+adaptive+learning+%E2%80%A2+audio+ML;Independent+researcher%2C+paper+under+review+at+JEDM;Every+number+here+has+a+measurement+behind+it" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=22E5FF&center=true&vCenter=true&width=760&lines=Agentic+AI+%E2%80%A2+adaptive+learning+%E2%80%A2+audio+ML;Independent+researcher%2C+paper+under+review+at+JEDM;Every+number+here+has+a+measurement+behind+it" alt="Typing SVG" />
 </a>
 
 <p>
