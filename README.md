@@ -22,6 +22,21 @@
   <a href="https://www.codechef.com/users/OmegaKavya">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
+  <a href="https://www.hackerrank.com/profile/OmegaKavya">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+  </a>
+</p>
+
+<p>
+  <a href="https://www.credly.com/users/omega-kavya">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
+  </a>
+  <a href="https://credentials.databricks.com/profile/omegakavya/wallet">
+    <img src="https://img.shields.io/badge/Databricks%20Credentials-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks credentials"/>
+  </a>
+  <a href="https://www.salesforce.com/trailblazer/aggarwalkavya">
+    <img src="https://img.shields.io/badge/Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Trailblazer"/>
+  </a>
 </p>
 
 </div>
