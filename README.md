@@ -1,18 +1,20 @@
 <div align="center">
 
-<!-- Premium Styled Text Header (Transparent BG with solid visible Royal Violet hex 8B5CF6) -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=8B5CF6&text=Kavya%20Aggarwal&height=120&fontSize=55&fontAlignY=50" alt="Kavya Aggarwal" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0d12,50:0891b2,100:22e5ff&height=200&section=header&text=Kavya%20Aggarwal&fontSize=58&fontColor=f3f6f8&animation=fadeIn&fontAlignY=36&desc=I%20measure%20whether%20the%20number%20means%20anything&descAlignY=58&descSize=18" width="100%" alt="Kavya Aggarwal" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+React%2C+Node%2C+MongoDB;AI+%26+ML+Engineer+%7C+Python%2C+TensorFlow;Deep+Learning+%7C+CNN%2C+Neural+Networks;Open+Source+Contributor+%7C+Always+Learning" alt="Typing SVG" />
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=22E5FF&center=true&vCenter=true&width=620&lines=Agentic+AI+%E2%80%A2+adaptive+learning+%E2%80%A2+audio+ML;Independent+researcher%2C+paper+under+review+at+JEDM;Every+number+here+has+a+measurement+behind+it" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <a href="mailto:aggarwalkaavya23@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<p>
+  <a href="https://aggarwalkavya.web.app">
+    <img src="https://img.shields.io/badge/Portfolio-22e5ff?style=for-the-badge&logo=google-chrome&logoColor=0a0d12" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/aggarwalkavya/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:aggarwalkaavya23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0a0d12?style=for-the-badge&logo=gmail&logoColor=22e5ff" alt="Email"/>
   </a>
   <a href="https://leetcode.com/u/OmegaKavya/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
@@ -20,169 +22,145 @@
   <a href="https://www.codechef.com/users/OmegaKavya">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
-  <a href="https://aggarwalkavya.me">
-    <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
 </p>
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I'm a passionate Computer Science undergraduate at Gitam University with a strong focus on Full-Stack Development and Artificial Intelligence. With a CGPA of 9.36, I thrive on building innovative solutions that bridge technology and real-world problems.
+Data analyst working on **agentic AI**: building and testing custom agents end to
+end, plus Salesforce automation. Independent researcher in Hyderabad, India.
+B.Tech Computer Science, 2026, CGPA 9.32.
 
-**What drives me:**
-- Building intelligent applications that make an impact
-- Exploring the frontiers of Deep Learning and AI
-- Solving complex problems with elegant code
-- Continuous learning and maintaining a growth mindset
+What I actually do, across every project below, is check whether a reported
+number measures what it claims. It is how a 66% accuracy turned out to be
+hiding seven languages scored at zero, how four named customer segments turned
+out to be a partition of noise, and how a significant result of my own turned
+out to be confounded and was withdrawn.
 
-**Beyond coding:** Competitive programmer, sports enthusiast (cricket vice-captain & swimming gold medalist), and dedicated learner.
-
----
-
-## Tech Stack
-
-<div align="center">
-
-### Programming Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Full-Stack Arsenal
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Databases & Vector Stores
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-0052CC?style=for-the-badge&logo=chromadb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SentenceTransformers](https://img.shields.io/badge/Sentence_Transformers-FFD21E?style=for-the-badge&logo=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-</div>
+- Paper under review at **JEDM** on a confound in simulated evaluations of adaptive difficulty
+- **Salesforce Agentforce** and **Databricks Data Engineer Associate** certified
+- Cricket vice-captain, swimming gold medallist, competitive programmer
 
 ---
 
-## Projects
+## Featured work
 
-### CogniLoop - Adaptive Tutoring System
-> **Adaptive educational platform that converts passive learning into active mastery loops.**
+### CogniLoop · adaptive tutoring, and the measurement problem underneath it
 
-- **Tech:** `Python` `Flask` `ChromaDB` `SentenceTransformers` `scikit-learn` `Docker`
-- **Features:** Thompson Sampling Contextual Bandit difficulty routing, Bayesian Knowledge Tracing (BKT), dynamic MCQs, and graceful offline fallback routing.
-- **Manuscript:** Co-authored preprint explaining the learning models. Read it [here](https://github.com/OmegaKavya/CogniLoop/blob/main/IEEE_RESEARCH_PAPER.md).
-- **Code:** [GitHub Repository](https://github.com/OmegaKavya/CogniLoop)
+IRT-grounded Bayesian Knowledge Tracing with parameters fitted by a from-scratch
+Baum-Welch, Thompson Sampling difficulty routing, and transcript-grounded quiz
+generation over open-domain video.
+
+The research contribution is a negative result. Fitting BKT per skill, generating
+responses from a latent state and reporting the posterior as the outcome cannot
+distinguish a policy that teaches better from one that merely asks harder
+questions. The three difficulty tiers sit at mastery levels of 0.846, 0.929 and
+1.000, compressed into the top of the scale, so over the range learners occupy no
+adaptive policy beats the best fixed one. An earlier significant result of my own
+was produced by exactly that construction, and it is withdrawn.
+
+`Python` `Flask` `ChromaDB` `scikit-learn` · **362 tests** · [Live](https://cogniloop-2svo.onrender.com) · [Code](https://github.com/OmegaKavya/CogniLoop)
+
+### MelodAI · what a network can and cannot hear in a Hindi film song
+
+Predicts energy at **26 of 26** on held-out songs and shows the evidence: the
+per-window energy curve drawn over the spectrogram it came from, the AudioSet
+classes the network assigns, nearest songs in embedding space, and the corpus map.
+
+Measured that arousal is recoverable from this audio and valence is not: 85.2%
+against 44.7% on a k-NN probe, silhouette 0.073. Serving carries no TensorFlow,
+which took the install from 2.1 GB to 441 MB and made a 512 MB host viable.
+
+`TensorFlow` `YAMNet` `TFLite` `Librosa` `FastAPI` `React` · [Live](https://melodai.web.app) · [Code](https://github.com/OmegaKavya/MelodAI)
+
+### Which Language Is This · seventeen languages, in your browser
+
+The reported 66% was concealing seven languages scored at exactly **0%**, because
+the cleaning step kept only ASCII and deleted every non-Latin script. Fixed end to
+end: worst language 0% to 96.5%, overall 99.1%.
+
+The model is exported and runs client side with no backend, reproducing
+scikit-learn on all 2,053 held-out rows to **1.9e-7**.
+
+`scikit-learn` `NumPy` `React` · **24 tests** · [Live](https://whichlanguage.web.app) · [Code](https://github.com/OmegaKavya/Language-Detection)
+
+### Are These Clusters Real? · a validity test for clustering
+
+Four named customer segments that behaved identically, on data whose columns are
+independent. Rebuilt as the test that establishes it: a permutation null, the gap
+statistic, bootstrap stability, and three clustering algorithms, **all four
+agreeing** in both directions.
+
+Runs entirely in a Web Worker. The Python reference and the JavaScript port share
+one deterministic generator, so they are compared as numbers: 104 values, worst
+relative difference **2e-14**.
+
+`NumPy` `scikit-learn` `React` `Web Workers` · [Live](https://are-these-clusters-real.web.app) · [Code](https://github.com/OmegaKavya/user-segmentation-app)
+
+### CineInfinity · a review platform with a resolver inside it
+
+Reviews and ratings, plus a topological sort over a franchise's prequel and sequel
+edges that orders a series by its story rather than its release dates, and Your
+Signal, which reads your ratings back against the crowd with Wilson intervals
+rather than raw averages.
+
+`React` `Node.js` `MongoDB` `Firebase` · **209 tests** · [Live](https://cineinfinity.web.app) · [Code](https://github.com/OmegaKavya/CineInfinity)
+
+### BrainBuddy · Smart India Hackathon 2024, third place
+
+A gamified study companion built with my team Ignited Minds. 25 self-contained
+pages of plain HTML, CSS and JavaScript with no build step, which is the right
+trade when the clock is the constraint.
+
+`HTML` `CSS` `JavaScript` · [Live](https://omegakavya.github.io/BrainBuddy_SIH2024/) · [Code](https://github.com/OmegaKavya/BrainBuddy_SIH2024)
 
 ---
 
-### MelodAI - Deep Learning Music Classification
-> **Bollywood Music Mood Classifier using CNN & Mel-Spectrograms**
+## Tech
 
-- **Tech:** `Python` `TensorFlow` `CNN` `Librosa` `Streamlit`
-- **Features:** Real-time audio classification, YouTube integration, and a responsive user interface.
-- **Live Demo:** [MelodAI App](https://melod-ai.streamlit.app/)
-- **Code:** [GitHub Repository](https://github.com/OmegaKavya/MelodAI)
-
----
-
-### CineInfinity - Full-Stack Movie Platform
-> **Movie Search & Review Platform with Social Features**
-
-- **Tech:** `React` `Node.js` `MongoDB` `Firebase` `Express`
-- **Features:** User authentication, movie reviews, ratings, and advanced search functionality.
-- **Live Demo:** [CineInfinity](https://movie-e78c5.web.app)
-- **Code:** [GitHub Repository](https://github.com/OmegaKavya/CineInfinity)
-
----
-
-### Language Detection AI
-> **Real-time Language Detection using Machine Learning**
-
-- **Tech:** `Python` `scikit-learn` `Streamlit` `Pandas`
-- **Features:** Multi-language detection and real-time text input processing.
-- **Live Demo:** [Language Detection](https://language-detection-project.streamlit.app/)
-- **Code:** [GitHub Repository](https://github.com/OmegaKavya/Language-Detection)
-
----
-
-### User Segmentation Dashboard
-> **AI-Powered Customer Analytics & Visualization**
-
-- **Tech:** `Python` `Plotly` `Streamlit` `Machine Learning`
-- **Features:** Interactive dashboards, customer insights, and predictive analytics.
-- **Live Demo:** [User Segmentation](https://user-segmentation.streamlit.app/)
-- **Code:** [GitHub Repository](https://github.com/OmegaKavya/user-segmentation-app)
-
----
-
-## Coding Analytics
-
-<p align="center">
-  <a href="https://github.com/OmegaKavya" target="_blank"><img height="135" src="https://github-readme-stats.shion.dev/api?username=OmegaKavya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/OmegaKavya" target="_blank"><img height="135" src="https://github-readme-stats.shion.dev/api/top-langs/?username=OmegaKavya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/OmegaKavya" target="_blank"><img height="135" src="https://github-readme-streak-stats.herokuapp.com/?user=OmegaKavya&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" /></a>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Librosa-FF6B6B?style=flat-square&logo=soundcloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FFD93D?style=flat-square&logo=databricks&logoColor=black" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
 </p>
 
 ---
 
-## Achievements & Leadership
-
-### Competitions & Hackathons
-- **Smart India Hackathon 2024** (3rd Place) - Co-designed and developed an AI-powered study companion.
-- **SOF International Mathematics Olympiad** - Silver Medalist.
-- **Eduranet Intellectual Olympiad** - Silver Medalist.
-
-### Sports & Student Leadership
-- **Swimming Gold Medalist** - Inter-school Swimming Championship.
-- **Cricket Vice-Captain** - Cricket Team (Silver Trophy).
-- **COGAAN Treasurer** (2023–24) - Gitam Coding Club.
-
----
-
-## Connect with Me
-
-I am always excited to discuss machine learning research, participate in hackathons, or collaborate on full-stack applications.
-
-- **Email**: [aggarwalkaavya23@gmail.com](mailto:aggarwalkaavya23@gmail.com)
-- **LinkedIn**: [linkedin.com/in/aggarwalkavya](https://www.linkedin.com/in/aggarwalkavya/)
-- **Portfolio**: [aggarwalkaavya.me](https://aggarwalkaavya.me)
-
----
-
 <div align="center">
 
-### Fun Fact
-> *"I can debug code and score centuries in cricket with equal passion!"* 🏏💻
+<img src="https://github-readme-stats.vercel.app/api?username=OmegaKavya&show_icons=true&hide_border=true&bg_color=0a0d12&title_color=22e5ff&icon_color=22e5ff&text_color=93a1ad&ring_color=22e5ff&include_all_commits=true&rank_icon=github" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmegaKavya&layout=compact&hide_border=true&bg_color=0a0d12&title_color=22e5ff&text_color=93a1ad&langs_count=8" height="165" alt="Top languages" />
 
-<br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OmegaKavya&hide_border=true&background=0a0d12&stroke=22e5ff&ring=22e5ff&fire=22e5ff&currStreakLabel=22e5ff&sideLabels=93a1ad&currStreakNum=f3f6f8&sideNums=f3f6f8&dates=5f6b76" height="165" alt="Streak" />
 
-Code with passion • Build with purpose • Impact with technology
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22e5ff,50:0891b2,100:0a0d12&height=120&section=footer" width="100%" alt="" />
 
 </div>
