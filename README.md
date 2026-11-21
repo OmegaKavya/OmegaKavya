@@ -55,7 +55,7 @@ hiding seven languages scored at zero, how four named customer segments turned
 out to be a partition of noise, and how a significant result of my own turned
 out to be confounded and was withdrawn.
 
-- Methodology paper written on a confound in simulated evaluations of adaptive difficulty, being prepared for submission
+- Methodology paper on a confound in simulated evaluations of adaptive difficulty, submitted to the Journal of Educational Data Mining
 - **Salesforce Agentforce** and **Databricks Data Engineer Associate** certified
 - Cricket vice-captain, swimming gold medallist, competitive programmer
 
