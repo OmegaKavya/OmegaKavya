@@ -77,7 +77,7 @@ questions. The three difficulty tiers sit at mastery levels of 0.846, 0.929 and
 adaptive policy beats the best fixed one. An earlier significant result of my own
 was produced by exactly that construction, and it is withdrawn.
 
-`Python` `Flask` `ChromaDB` `scikit-learn` `Postgres` · **478 tests** · [Live](https://cogniloop-2svo.onrender.com) · [Code](https://github.com/OmegaKavya/CogniLoop)
+`Python` `Flask` `ChromaDB` `scikit-learn` `Postgres` · **554 tests** · [Live](https://cogniloop-2svo.onrender.com) · [Code](https://github.com/OmegaKavya/CogniLoop)
 
 ### CineInfinity · full-stack film and anime platform
 
